@@ -21,6 +21,10 @@ Strategic Planning: Analyzing customer churn is not just about retaining existin
 
 Overall, the motivation behind analyzing customer churn in the telecom industry lies in improving business performance, enhancing customer satisfaction, and staying ahead in a highly competitive market through data-driven decision-making and strategic planning.
 
+Do monthly charges influence churn?
+Which services are most associated with churn?
+Is tenure a predictor of churn?
+
 3. File Descriptions
 
    The notebook jupyter file contains the code written to analyze the dataset, perform data preprocessing, exploratory data analysis (EDA).
