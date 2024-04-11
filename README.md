@@ -31,7 +31,7 @@ Is tenure a predictor of churn?
    It include sections for data loading, data cleaning, and result 
 4. Results
 
-The main findings of the code can be found at the post available.
+The main findings of the code can be found at the post available here: https://medium.com/@snipermitashi/understanding-customer-churn-in-telecom-f93e5395fdd4
 
 The main findings of the code can be found at the post available.
 
