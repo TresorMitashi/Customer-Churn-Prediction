@@ -35,5 +35,6 @@ The main findings of the code can be found at the post available here: https://m
 
 The main findings of the code can be found at the post available.
 
-Licensing, Authors, Acknowledgements 
+5. Licensing, Authors, Acknowledgements
+
 we found the data from dataset in https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction/input
